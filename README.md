@@ -1,5 +1,7 @@
-# m5-ze
-Repository for some projects with M5Stack boards
+# m5-projects-stack
+
+## Repository for some projects with M5Stack boards
+
 
 1) Local weather monitor (with Env IV module) - M5StickC Plus
 2) Environmental Monitor (with Env IV module) - M5StickC Plus
@@ -8,7 +10,8 @@ Repository for some projects with M5Stack boards
 5) Using LLM with M5CoreS2
 6) Using LLM with M5CoreS3
 
-Repositório para alguns projetos usando os módulos da M5Stack
+## Repositório para alguns projetos usando os módulos da M5Stack
+
 
 1) Monitor ambiental local (com o módulo ENV IV) - M5StickC Plus
 2) Monitor ambiental genérico (com o módulo ENV IV) - M5StickC Plus
